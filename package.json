@@ -1,0 +1,25 @@
+{
+    "name": "dark-dev-view",
+    "displayName": "Dark Dev View",
+    "publisher": "BhuwanChandra",
+    "repository": {
+        "url": "https://github.com/BhuwanChandra/Dark-Dev-View"
+    },
+    "description": "A dark color theme for vs code",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Dev View",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Dev View-color-theme.json"
+            }
+        ]
+    }
+}
