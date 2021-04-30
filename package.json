@@ -2,12 +2,17 @@
     "name": "dark-dev-view",
     "displayName": "Dark Dev View",
     "publisher": "BhuwanChandra",
+    "author": {
+        "name": "BhuwanChandra",
+        "email": "bhuwan7779@gmail.com",
+        "url": "https://github.com/BhuwanChandra"
+    },
     "icon": "images/icon.png",
     "repository": {
         "url": "https://github.com/BhuwanChandra/Dark-Dev-View"
     },
     "description": "A dark color theme for vs code",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.55.0"
     },
