@@ -1,9 +1,9 @@
 # Change Log
 
-All notable changes to the "dark-dev-view" extension will be documented in this file.
+All notable changes to the **"Dark Dev View"** extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+### 0.1.0 - 03/05/2021
+- Added new version of Dark Dev View theme with purple background shades.
 
-## [Unreleased]
-
+### 0.0.1 - 30/04/2021
 - Initial release

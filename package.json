@@ -12,7 +12,7 @@
         "url": "https://github.com/BhuwanChandra/Dark-Dev-View"
     },
     "description": "A dark color theme for vs code",
-    "version": "0.0.3",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.55.0"
     },
@@ -25,6 +25,11 @@
                 "label": "Dark Dev View",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Dark Dev View-color-theme.json"
+            },
+            {
+                "label": "Dark Dev View (Purple)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Dev View(Purple)-color-theme.json"
             }
         ]
     }
